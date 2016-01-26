@@ -36,7 +36,7 @@ module.exports = React.createClass({
             data-item-image={post.image}
             data-item-name={post.title}
             data-item-description={post.description}
-            data-item-url={post.path}
+            data-item-url={"http://snipcart-gatsby.netlify.com" + post.path}
             style={{
               display: 'block',
               color: 'black',
