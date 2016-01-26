@@ -9,4 +9,4 @@ path: "/dry-martini/"
 description: So tasty, so good."
 ---
 
-> "One Martini is all right. Two are too many, and three are not enought"
+> "One Martini is all right. Two are too many, and three are not enough"
