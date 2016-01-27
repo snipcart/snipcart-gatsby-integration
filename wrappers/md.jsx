@@ -66,7 +66,7 @@ module.exports = React.createClass({
                 height: rhythm(2)
               }}
             />
-            <strong>{this.props.config.authorName}</strong> is rocking his universe like no one! Enjoy the power of the living, folks.
+            <strong>{this.props.config.authorName}</strong> can throw parties reaching unprecedented levels of epicness. With this Gatsby/Snipcart store, so can you!
           </p>
         </div>
       </DocumentTitle>
