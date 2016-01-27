@@ -52,7 +52,7 @@ export default class extends React.Component {
                 height: rhythm(2) 
               }}
             />
-           Welcome to the Great Gatsby Store!
+           Welcome to the Great Gatsby Store! This awesome static e-commerce demo shop is proudly powered by Gatsby & Snipcart.
           </p>
           <ul>
             {pageLinks}
